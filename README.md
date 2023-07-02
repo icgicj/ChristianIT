@@ -7,3 +7,5 @@
 DecisionFlowchart.pdf - A flowchart made with a fixed number and a second number to determine which number would be bigger.
 
 Python.png - A screenshot of Python code to determine which value is bigger between two numbers. 
+
+MyClass.png - An OOP Class Diagram representing three attributes and three methods of a flower.
