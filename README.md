@@ -11,3 +11,5 @@
 [MyClass.png](https://github.com/icgicj/ChristianIT/blob/main/MyClass.png) - An OOP Class Diagram representing three attributes and three methods of a flower.
 
 [PythonOOG.png](https://github.com/icgicj/ChristianIT/blob/main/PythonOOP.png) - A screenshot of Python code demonstrating the usage of a "Flower" class in Python, with a Flower object, and two methods.
+
+[Flower.py](https://github.com/icgicj/ChristianIT/blob/main/Flower.py) - The code used for [PythonOOG.png](includes comments)
