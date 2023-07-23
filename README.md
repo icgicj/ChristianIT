@@ -15,3 +15,5 @@
 [Flower.py](https://github.com/icgicj/ChristianIT/blob/main/Flower.py) - The code used for [PythonOOG.png](https://github.com/icgicj/ChristianIT/blob/main/PythonOOP.png)(includes comments)
 
 [NetworkDesign.png](https://github.com/icgicj/ChristianIT/blob/main/NetworkDesign.png) - A star topology showcasing a router, a printer, and two computers. I chose the star topology because all devices are connected to the router, meaning both computers and future computers can easily access the printer without messing with the network. 
+
+[SQLQuery.png](https://github.com/icgicj/ChristianIT/blob/main/SQLQuery.png) - An SQL statement showcasing the result of trying to identify products with prices over $70.
