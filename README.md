@@ -18,4 +18,4 @@
 
 [SQLQuery.png](https://github.com/icgicj/ChristianIT/blob/main/SQLQuery.png) - An SQL statement showcasing the result of trying to identify products with prices over $70.
 
-[MyHTML.png](https://github.com/icgicj/ChristianIT/blob/main/MyHTML.png) - A screenshot of HTML code showcasing foundation HTML tags with my [logo](https://github.com/icgicj/ChristianIT/blob/main/IT%201025.png) in the code.
+[MyHTML.png](https://github.com/icgicj/ChristianIT/blob/main/MyHTML.png) - A screenshot of HTML code showcasing foundation HTML tags with my [logo](https://github.com/icgicj/ChristianIT/blob/main/IT%201025.png) included.
